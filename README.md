@@ -1,0 +1,3 @@
+# python_exercise_1
+
+Write a hello world program in Python...
